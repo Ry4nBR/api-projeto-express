@@ -1,6 +1,6 @@
-# API de Data e Hora — Aula 04, Atividade 2.2
+# API de Data e Hora — Aula 04, Atividade 2.1
 
-Este repositório contém a API desenvolvida para a atividade 2.2 da Aula 04. O serviço usa Node.js e Express para fornecer a data e a hora atuais em cinco cidades, cada uma em seu fuso horário. O front-end que consome a API está em um [repositório separado](https://github.com/Ry4nBR/front-end-projeto-express).
+Este repositório contém a API desenvolvida para a atividade 2.1 da Aula 04. O serviço usa Node.js e Express para fornecer a data e a hora atuais em cinco cidades, cada uma em seu fuso horário. O front-end que consome a API está em um [repositório separado](https://github.com/Ry4nBR/front-end-projeto-express).
 
 ## Tecnologias
 
