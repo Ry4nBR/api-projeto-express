@@ -17,7 +17,11 @@ npm start
 ## Rotas
 
 - GET `/` - mensagem de status da API
-- GET `/data-hora` - retorna data, hora e dataHora em JSON
+- GET `/data-hora` - retorna a data/hora de Brasília, o instante ISO e a lista `horarios` em JSON
+
+Cada item de `horarios` contém `cidade`, `pais`, `fusoHorario`, `data` e `hora`.
+A lista inclui Brasília, Nova York, Londres, Paris e Tóquio, calculados a partir
+do mesmo instante para manter os horários consistentes.
 
 ## Exemplos locais
 
