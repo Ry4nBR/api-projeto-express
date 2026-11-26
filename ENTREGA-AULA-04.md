@@ -96,10 +96,14 @@ Captura da aplicação publicada na Vercel, com os cinco relógios sincronizados
 
 ### Painel do Render
 
-![Painel de implantação do Render](./evidencias/render-painel.png)
+Captura do deploy ativo da API no Render, com status **Deploy succeeded | Live**.
+
+![Painel atual de implantação do Render](./evidencias/render-painel-atual.png)
 
 ### Painel da Vercel
 
-![Painel de implantação da Vercel](./evidencias/vercel-painel.png)
+Captura do deployment de produção do front-end na Vercel, com status **Ready**.
 
-As capturas dos painéis registram a configuração e o histórico de publicação. Nesta revisão, as URLs públicas da API (`/` e `/data-hora`) e do front-end foram consultadas e responderam com sucesso.
+![Painel atual de implantação da Vercel](./evidencias/vercel-painel-atual.png)
+
+As capturas registram os painéis de implantação e seus respectivos status. Nesta revisão, as URLs públicas da API (`/` e `/data-hora`) e do front-end também foram consultadas e responderam com sucesso.
